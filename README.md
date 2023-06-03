@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1>
-<h3 align="center">I'm currently a Master's Degree Student. I'm interested in Machine Learning, Cybersecurity and Mobile development. </h3>
+<h3 align="center">I'm a Computer Engineer interested in Machine Learning, Cybersecurity and Mobile development. </h3>
 
-- 🌱 I’m currently learning **Natural Computation**
+<!-- - 🌱 I’m currently learning **Natural Computation** -->
+- 👨‍💻 Currently open to new working opportunities
 
-- 📫 How to reach me **barradominique@gmail.com**
+- 📫 Reach me at **barradominique@gmail.com**
 
 - 🚀 Get my resume on **[my web portfolio](https://nicksenzaname.github.io/)**
 
